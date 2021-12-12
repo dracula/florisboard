@@ -6,4 +6,4 @@
 
 ## License
 
-[GNU GPL v3](./LICENSE)
+[MIT](./LICENSE)
