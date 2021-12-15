@@ -7,3 +7,5 @@
 ## License
 
 [MIT](./LICENSE)
+
+Author: [@Venem](https://github.com/venem/)
