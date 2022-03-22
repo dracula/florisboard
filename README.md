@@ -20,9 +20,9 @@ We are also looking into publishing the theme into the upcoming theme store in F
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/florisboard/graphs/contributors).
 
-| [![Vlad M.](https://github.com/venem.png?size=100)](https://github.com/venem)            |
-| ---------------------------------------------------------------------------------------- |
-| [Vlad M.](https://github.com/venem)                                                      |
+| [![Vlad M.](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
+| ---                                                                           | ---                                                                                             |
+| [Vlad M.](https://github.com/venem)                                           | [Mirella](https://github.com/dhampir-damsel)                                                    |
 
 ## Community
 
