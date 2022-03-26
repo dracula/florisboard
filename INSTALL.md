@@ -18,4 +18,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/florisboard
 4.  Change "Theme mode" to "Always night"
 5.  Press on "Manage installed themes"
 7.  Press import and find the `dracula.flex` file downloaded earlier
-8.  Now you should see "Dracula Theme" as an option under the night theme menu, select it
+8.  Now you should see "Dracula Theme" as an option under the night theme menu, select your preferred theme
