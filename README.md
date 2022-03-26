@@ -11,6 +11,10 @@ All instructions can be found at [draculatheme.com/florisboard](https://draculat
 ### Note
 FlorisBoard v0.3.14 onwards uses a new theming system so any older version should use the ([legacy](https://github.com/dracula/florisboard/tree/0.3.14)) install.
 
+## Colours
+We use the Dracula colours in our theme, however some are modified to be lighter when a key is pressed.
+For example, #6272a4 becomes #7184bc when pressed. For future reference, the lightness value of the colour is increased by 10.
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/florisboard/graphs/contributors).
