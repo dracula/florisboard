@@ -9,12 +9,7 @@
 All instructions can be found at [draculatheme.com/florisboard](https://draculatheme.com/florisboard).
 
 ### Note
-FlorisBoard v0.3.14 onwards uses a new theming system so the installation will be slightly different.
-If you are using v0.3.14, follow the instructions on that branch ([0.3.14](https://github.com/dracula/florisboard/tree/0.3.14))
-
-Once v0.3.14 is released on F-Droid, the contents of this branch will be moved to a legacy branch, and the new theming system will be the default.
-
-We are also looking into publishing the theme into the upcoming theme store in FlorisBoard to simplify the installation process.
+This is the legacy theme for versions of FlorisBoard older than 0.3.14. If you have no clue how you ended up here and want to install the Dracula theme, go back [here](https://github.com/dracula/florisboard)
 
 ## Team
 
