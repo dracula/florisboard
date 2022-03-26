@@ -14,9 +14,8 @@ Download using the [GitHub .zip download](https://github.com/dracula/florisboard
 
 1.  Open the FlorisBoard app
 2.  Go through initial activation steps if not already done
-3.  Go to the "Theme" tab
+3.  Select "Theme"
 4.  Change "Theme mode" to "Always night"
-5.  Press on "Selected theme" under "Night theme"
-6.  Press the plus button
-7.  Press import and choose your preferred theme from the `themes` folder you downloaded earlier
-8.  Now you should see "Dracula Theme" as an option, select it
+5.  Press on "Manage installed themes"
+7.  Press import and find the `dracula.flex` file downloaded earlier
+8.  Now you should see "Dracula Theme" as an option under the night theme menu, select it
