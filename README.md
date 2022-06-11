@@ -6,10 +6,10 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/florisboard](https://draculatheme.com/florisboard).
+See [INSTALL.md](./INSTALL.md)
 
 ### Note
-This is the legacy theme for versions of FlorisBoard older than 0.3.14. If you have no clue how you ended up here and want to install the Dracula theme, go back [here](https://github.com/dracula/florisboard)
+This is the legacy theme for versions of FlorisBoard older than 0.3.14. If you have no clue how you ended up here and just want to install the latest Dracula theme, go back [here](https://github.com/dracula/florisboard)
 
 ## Team
 
