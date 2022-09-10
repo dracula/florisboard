@@ -15,14 +15,15 @@ FlorisBoard v0.3.14 onwards uses a new theming system so any older version shoul
 We use the Dracula colours in our theme, however some are modified to be lighter when a key is pressed.
 For example, #6272a4 becomes #7184bc when pressed. For future reference, the lightness value of the colour is increased by 10.
 Colours may also be made darker in which case the lightness is decreased by 20.
+In the case of more recent versions of the theme, each key is coloured. To get this colour, the corresponding Dracula theme colour has its lightness value decreased by 50.
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/florisboard/graphs/contributors).
 
-| [![Vlad M.](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
+| [![Venem](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
 | ---                                                                           | ---                                                                                             |
-| [Vlad M.](https://github.com/venem)                                           | [Mirella](https://github.com/dhampir-damsel)                                                    |
+| [Venem](https://github.com/venem)                                           | [Mirella](https://github.com/dhampir-damsel)                                                    |
 
 ## Community
 
