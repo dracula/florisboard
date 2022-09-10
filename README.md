@@ -15,9 +15,9 @@ This is the legacy theme for versions of FlorisBoard older than 0.3.14. If you h
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/florisboard/graphs/contributors).
 
-| [![Vlad M.](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
+| [![Venem](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
 | ---                                                                           | ---                                                                                             |
-| [Vlad M.](https://github.com/venem)                                           | [Mirella](https://github.com/dhampir-damsel)                                                    |
+| [Venem](https://github.com/venem)                                           | [Mirella](https://github.com/dhampir-damsel)                                                    |
 
 ## Community
 
