@@ -1,21 +1,18 @@
 ### [FlorisBoard](https://github.com/florisboard/florisboard)
 
-#### Download using Git
+#### Download
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Download `dracula.flex` from this repository, or clone the repository:
 
     git clone https://github.com/dracula/florisboard.git
 
-#### Download manually
+#### Install (FlorisBoard 0.5+, Snygg v2)
 
-Download using the [GitHub .zip download](https://github.com/dracula/florisboard/archive/master.zip) option and unzip them.
+1. Open FlorisBoard.
+2. Open **Addons & Extensions** and select **Import**.
+3. Select `dracula.flex` and import it.
+4. Open **Theme**, select a night theme, and choose one of the nine Dracula variants.
 
-#### Installing theme
+The package retains the original extension ID (`io.github.venem`) so an existing installation can be updated.
 
-1.  Open the FlorisBoard app
-2.  Go through initial activation steps if not already done
-3.  Select "Theme"
-4.  Change "Theme mode" to "Always night"
-5.  Press on "Manage installed themes"
-7.  Press import and find the `dracula.flex` file downloaded earlier
-8.  Now you should see "Dracula Theme" as an option under the night theme menu, select your preferred theme
+FlorisBoard 0.3.x uses an older theming format. For older FlorisBoard versions, use an earlier Dracula release or the [legacy branch](https://github.com/dracula/florisboard/tree/legacy).
