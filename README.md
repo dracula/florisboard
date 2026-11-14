@@ -9,7 +9,7 @@
 All instructions can be found at [draculatheme.com/florisboard](https://draculatheme.com/florisboard).
 
 ### Note
-FlorisBoard v0.3.14 onwards uses a new theming system so any older version should use the ([legacy](https://github.com/dracula/florisboard/tree/legacy)) install.
+This release supports FlorisBoard 0.5+ with Snygg v2. The older FlorisBoard 0.3.x format is available in the repository history; use the [legacy branch](https://github.com/dracula/florisboard/tree/legacy) for earlier releases.
 
 ## Colours
 We use the Dracula colours in our theme, however some are modified to be lighter when a key is pressed.
